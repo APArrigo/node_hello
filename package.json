@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/APArrigo/node_hello/issues"
   },
-  "homepage": "https://github.com/APArrigo/node_hello#readme"
+  "homepage": "https://github.com/APArrigo/node_hello#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
