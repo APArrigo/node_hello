@@ -1,0 +1,19 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Test node hello app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APArrigo/node_hello.git"
+  },
+  "author": "Anthony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/APArrigo/node_hello/issues"
+  },
+  "homepage": "https://github.com/APArrigo/node_hello#readme"
+}
